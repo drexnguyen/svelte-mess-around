@@ -9,6 +9,9 @@
 	<div>
 		<a href="/stoopid">Stoopid</a>
 	</div>
+    <div>
+		<a href="/facts">Facts</a>
+	</div>
 </nav>
 
 <style>
